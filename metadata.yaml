@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33179'
     url: http://www.gutenberg.org/2009/agents/33179
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28172#A-Solemn-Caution-Against-the-Ten-Horns-of-Calvinism
 gutenberg_issued: '2009-02-24'
 gutenberg_type: Text
 identifiers:
